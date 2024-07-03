@@ -1,6 +1,7 @@
 # ansible-learnings
 
-What is Ansbile
+##What is Ansbile?
+
 Ansible is an open-source automation tool used for configuration management, application deployment, and task automation. It is designed to simplify complex IT tasks and make managing large-scale IT infrastructure more efficient. Here are some key features and aspects of Ansible:
 
 Agentless Architecture: Unlike some other automation tools, Ansible does not require any agent software to be installed on the target machines. It uses SSH (Secure Shell) to communicate with the nodes it manages.
