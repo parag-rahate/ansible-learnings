@@ -30,7 +30,7 @@ In addition to the open-source version, there is an enterprise version called An
 
 Ansible is widely used in DevOps practices to streamline and automate repetitive tasks, ensuring consistent and reliable IT operations.
 
-Here I covered most of the industry use cases task of ansible.
+Here I covered most of the examples of ansible.
 
 
 
